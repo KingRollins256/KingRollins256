@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Len Enterprises information website<br>I'm looking forward to collaborate on developing the front end using all frameworks <br>I'm looking for help in front end frameworks like Angular, Flask, Django and also improving my ui/ux skills<br>I'm currently a Mobile App Developer using Flutter as framework<br>Ask me about Laravel, React and project ideas for beginners and intermediete<br>Music kills the shit out of, I love music Rnb, Hippop and uk drills.
+I'm currently working with Len Enterprises<br>I'm looking forward to collaborate on developing the front end using all frameworks <br>I'm looking for help in front end frameworks like Angular, Flask, Django and also improving my ui/ux skills<br>I'm currently a Mobile App Developer using Flutter as framework<br>Ask me about Laravel, React and project ideas for beginners and intermediete<br>Music kills the shit out of, I love music Rnb, Hippop and uk drills.
 
 
 ## 🌐 Socials:
